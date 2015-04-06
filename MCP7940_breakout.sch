@@ -61,9 +61,9 @@ refdes=X1
 T 56700 53000 5 10 0 0 90 0 1
 symversion=0.1
 T 57400 52800 5 10 0 0 0 0 1
-model=CFS-20632768DZBB
+model=VT200F-6PF20PPM
 T 57400 52800 5 10 0 0 0 0 1
-source=http://www.digikey.com/product-detail/en/CFS-20632768DZBB/300-8301-ND/862578
+source=http://www.digikey.com/product-detail/en/VT200F-6PF20PPM/728-1000-ND/1626715
 T 56700 53600 5 10 1 1 0 0 1
 value=32.7680kHz, 20ppm
 T 57400 52800 5 10 0 0 0 0 1
