@@ -4,5 +4,5 @@ OUT	J2-2 R1-1 U1-7
 Vcc	J2-3 R1-2 R2-2 R3-2 C1-1 U1-8 
 GND	J1-1 C1-2 C3-1 C2-1 U1-4 
 VBAT	J1-2 U1-3 
-unnamed_net2	X1-1 C3-2 U1-2 
-unnamed_net1	X1-2 C2-2 U1-1 
+unnamed_net2	X1-2 C3-2 U1-2 
+unnamed_net1	X1-1 C2-2 U1-1 
